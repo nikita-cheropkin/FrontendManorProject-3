@@ -41,5 +41,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Website - [Nikita Cheropkin]([https://github.com](https://github.com/nikita-cheropkin))
+- Website - [Nikita Cheropkin](https://github.com/nikita-cheropkin)
 - Frontend Mentor - [@nikita-cheropkin](https://www.frontendmentor.io/profile/nikita-cheropkin)
