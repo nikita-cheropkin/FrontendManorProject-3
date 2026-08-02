@@ -36,12 +36,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://nikita-cheropkin.github.io/FrontendManorProject-3/intro-section-with-dropdown-navigation/site10.html]
+- Solution URL: [Frontend Mentor Solution](https://frontendmentor.io)
+- Live Site URL: [https://nikita-cheropkin.github.io/FrontendManorProject-3/intro-section-with-dropdown-navigation/site10.html](https://nikita-cheropkin.github.io/FrontendManorProject-3/intro-section-with-dropdown-navigation/site10.html)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@nikita-cheropkin]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/nikita-cheropkin))
-
-
+- Website - [Nikita Cheropkin](https://github.com)
+- Frontend Mentor - [@nikita-cheropkin](https://www.frontendmentor.io/profile/nikita-cheropkin)
