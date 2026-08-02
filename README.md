@@ -37,7 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://frontendmentor.io)
-- Live Site URL: [https://nikita-cheropkin.github.io/FrontendManorProject-3/intro-section-with-dropdown-navigation/site10.html](https://nikita-cheropkin.github.io/FrontendManorProject-3/intro-section-with-dropdown-navigation/site10.html)
+- Live Site URL: [Live Site](https://nikita-cheropkin.github.io/FrontendManorProject-3/intro-section-with-dropdown-navigation/site10.html)
 
 ## Author
 
