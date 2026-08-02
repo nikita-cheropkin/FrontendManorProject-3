@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="icon" href="Images/favicon-32x32.png">
+    <link rel="stylesheet" href="css/site10.css">
+</head>
+<body>
+    <header>
+        <img src="Images/logo.svg" alt="" width="100">
+
+        <nav>
+            <div class="tooltip-link">
+                <a href="#">Features
+                    <ion-icon class="arrow" name="chevron-down-outline"></ion-icon>
+                </a>
+                
+                <div class="tooltip-company">
+                    <div class="content-company">
+                        <a href="#">
+                            <img src="Images/icon-todo.svg" alt="">
+                            Todo List</a>
+                        <a href="#">
+                            <img src="Images/icon-calendar.svg" alt="">
+                            Calendar
+                        </a>
+                        <a href="#">
+                            <img src="Images/icon-reminders.svg" alt="">
+                            Reminders
+                        </a>
+                        <a href="#">
+                            <img src="Images/icon-planning.svg" alt="">
+                            Planning
+                        </a>
+                    </div>
+                </div>  
+            </div>
+
+            <div class="tooltip-link">
+                <a href="#" id="company">Company
+                    <ion-icon class="arrow" name="chevron-down-outline"></ion-icon>
+                </a>
+
+                <div class="tooltip-company">
+                    <div class="content-company">
+                        <a href="#">History</a>
+                        <a href="#">Our Team</a>
+                        <a href="#">Blog</a>
+                    </div>
+                </div>                  
+            </div>
+
+            <a href="#">Careers</a>
+            <a href="#">About</a>
+        </nav>
+
+        <div class="header-btns">
+            <button id="loginBtn">Login</button>
+            <button id="registerBtn">Register</button>
+        </div>
+
+        <div id="overlay" class="overlay"></div>
+        
+        <div class="sidebar">
+            <header>
+                <img src="Images/icon-close-menu.svg" alt="" id="closeMenuBtn" style="cursor: pointer; float: right;">                
+            </header>
+            
+
+            <div class="mobile-links">
+                <div class="menu-link">
+                    <a href="#" id="textLink">Features
+                        <ion-icon class="arrow" name="chevron-down-outline"></ion-icon>
+                    </a>
+                    
+                    <div class="text-link">
+                        <a href="#">
+                            <img src="Images/icon-todo.svg" alt="">
+                            Todo List</a>
+                        <a href="#">
+                            <img src="Images/icon-calendar.svg" alt="">
+                            Calendar
+                        </a>
+                        <a href="#">
+                            <img src="Images/icon-reminders.svg" alt="">
+                            Reminders
+                        </a>
+                        <a href="#">
+                            <img src="Images/icon-planning.svg" alt="">
+                            Planning
+                        </a>                        
+                    </div>
+                </div>
+
+                <div class="menu-link">
+                    <a href="#" id="company-link">Company
+                        <ion-icon class="arrow" name="chevron-down-outline"></ion-icon>
+                    </a>   
+                    
+                    <div class="company-links">
+                        <a href="#">History</a>
+                        <a href="#">Our Team</a>
+                        <a href="#">Blog</a>
+                    </div>
+                </div>
+
+                <a href="#">Careers</a>
+                <a href="#">About</a>
+            </div>
+
+            <div class="mb-btns">
+                <button id="mb-login">Login</button>
+                <button id="mb-register">Register</button>                
+            </div>
+        </div>
+
+        <div class="mobile-btn">
+            <img src="Images/icon-menu.svg" alt="" id="mobileMenu">
+        </div>
+    </header>
+
+    <main>
+        <div class="left">
+            <h1>Make remote work</h1>
+            <p>Get your team in sync, no matter your location. Streamline processes, create team rituals, and watch productivity soar.</p>
+            <button>Learn more</button>
+            
+            <div class="flex-container">
+                <img src="Images/client-databiz.svg" alt="">
+                <img src="Images/client-audiophile.svg" alt="">
+                <img src="Images/client-meet.svg" alt="">
+                <img src="Images/client-maker.svg" alt="">
+            </div>
+        </div>
+        <div class="right">
+            <picture>
+                <source media="(max-width: 600px)" srcset="Images/image-hero-mobile.png">
+                <img src="Images/image-hero-desktop.png" alt="">
+            </picture>
+            
+        </div>
+    </main>
+
+    <!-- Developed by Cheropkin Nikita
+     https://github.com/nikita-cheropkin-->
+
+    <script src="script.js">
+    </script>
+    <script type="module" src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
