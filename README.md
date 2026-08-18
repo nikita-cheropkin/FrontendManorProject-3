@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project screenshot](./screenshot.png)
+![Project screenshot](./qr-code-component/screenshot.png)
 
 ### Links
 
